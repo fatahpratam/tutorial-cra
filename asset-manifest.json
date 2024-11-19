@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tutorial-cra/static/js/main.a13ff264.js",
+    "index.html": "/tutorial-cra/index.html",
+    "main.a13ff264.js.map": "/tutorial-cra/static/js/main.a13ff264.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a13ff264.js"
+  ]
+}
